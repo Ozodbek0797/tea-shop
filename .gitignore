@@ -1,0 +1,6 @@
+main/models.py
+main/views.py
+users/models.py
+users/views.py
+shop/settings.py
+shop/urls.py
